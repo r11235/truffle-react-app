@@ -1,0 +1,41 @@
+/* Styles go here */
+.App {
+  background-color: antiquewhite;
+  color: black;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 100px;
+  border-bottom: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.App-link {
+  color: darkturquoise;
+  text-decoration: none;
+}
+
+.App-link:visited {
+  color: #5963FA;
+}
+
+.App-link:hover {
+  color: #33B2FF;
+  text-decoration: none;
+}
+
+.App-link:active {
+  color: darkturquoise;
+}
+
+.App-span {
+  font-size: 110%;
+  color: #333782;
+}
+
+h1 {
+  color: #5963FA;
+}

@@ -1,0 +1,36 @@
+.Footer {
+	background-color: antiquewhite;
+	color: #33B2FF;
+	text-align: center;
+	align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 100px;
+  border-bottom: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.Footer-link {
+  color: darkturquoise;
+  text-decoration: none;
+}
+
+.Footer-link:visited {
+  color: #5963FA;
+}
+
+.Footer-link:hover {
+  color: #33B2FF;
+  text-decoration: none;
+}
+
+.Footer-link:active {
+  color: blue;
+}
+
+.Footer-span {
+  font-size: 80%;
+  font-style: italic;
+}
